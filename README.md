@@ -16,3 +16,5 @@ The script will wait for the specified time and then play an alarm sound using V
 Requirements:
 VLC Media Player: The script uses the vlc command to play an audio file.
 Audio File: An alarm.wav file is needed at /home/rapha/Downloads/. You will need to update the path in the script if your file is located elsewhere.
+
+This project is licensed under the MIT License. For more details, see the LICENSE file.
