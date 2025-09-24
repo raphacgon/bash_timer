@@ -1,4 +1,4 @@
-alarm.sh is a simple Bash script that acts as a timer.
+Timer.sh is a simple Bash script that acts as a timer.
 
 How to Use
 
